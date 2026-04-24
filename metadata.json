@@ -1,0 +1,6 @@
+{
+  "name": "StockBoard",
+  "description": "A comprehensive dashboard for domestic, overseas, and ETF stock market tracking, with financial health checks and real-time interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
